@@ -4,7 +4,7 @@
 ## Description
 This project provides a framework for rapid concept erasure in Text-to-Image (T2I) diffusion models. By using a dual-objective approach with a knowledge distillation framework, the model can erase target concepts while preserving others, completing this process within 15 seconds. This method offers a solution that is both faster and more efficient than traditional techniques.
 
-![show](text-clip-erasing\image\show.jpg)
+![show](image/show.jpg)
 
 ## Key Features
 - **Dual-Objective Concept Erasure**: Erases specified concepts without affecting unrelated concepts.
