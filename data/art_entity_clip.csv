@@ -1,0 +1,101 @@
+,prompt,artist,evaluation_seed,case_number
+0,A surreal landscape with floating islands in Kelly Mckernan style.," ""Kelly Mckernan""",12345,0
+1,A whimsical forest with magical creatures in Kelly Mckernan style.," ""Kelly Mckernan""",67891,1
+2,A vibrant garden with mystical flowers in Kelly Mckernan style.," ""Kelly Mckernan""",23456,2
+3,A dream-like cityscape with floating objects in Kelly Mckernan style.," ""Kelly Mckernan""",78912,3
+4,A cozy cottage in a snowy village in Thomas Kinkade style.," ""Thomas Kinkade""",34567,4
+5,A tranquil lake with a wooden pier in Thomas Kinkade style.," ""Thomas Kinkade""",89123,5
+6,A charming village street with holiday lights in Thomas Kinkade style.," ""Thomas Kinkade""",45678,6
+7,A picturesque garden with blooming flowers in Thomas Kinkade style.," ""Thomas Kinkade""",91234,7
+8,A futuristic city with towering skyscrapers in Michael Whelan style.," ""Michael Whelan""",56789,8
+9,A space station orbiting Earth in Michael Whelan style.," ""Michael Whelan""",12390,9
+10,A dramatic alien landscape with strange flora in Michael Whelan style.," ""Michael Whelan""",67894,10
+11,A sci-fi battle scene with spaceships in Michael Whelan style.," ""Michael Whelan""",23457,11
+12,A grand castle on a mountain in Tyler Edlin style.," ""Tyler Edlin""",78913,12
+13,A magical dragon flying over an ancient forest in Tyler Edlin style.," ""Tyler Edlin""",34568,13
+14,A majestic tower surrounded by mythical creatures in Tyler Edlin style.," ""Tyler Edlin""",89124,14
+15,A fantasy village nestled in a valley in Tyler Edlin style.," ""Tyler Edlin""",45679,15
+16,A gothic cathedral with eerie lighting in John Blanche style.," ""John Blanche""",91235,16
+17,A steampunk airship flying over a dystopian city in John Blanche style.," ""John Blanche""",56780,17
+18,A detailed alchemist's laboratory in John Blanche style.," ""John Blanche""",12391,18
+19,"A dark, mysterious alleyway in a futuristic city in John Blanche style."," ""John Blanche""",67895,19
+20,A bright comic strip featuring pop icons in Andy Warhol style.," ""Andy Warhol""",23458,20
+21,"A vibrant portrait of Marilyn Monroe with her signature red lipstick and white dress, in Andy Warhol style."," ""Andy Warhol""",78914,21
+22,A series of colorful soup cans in Andy Warhol style.," ""Andy Warhol""",34569,22
+23,"A modern art piece featuring repeated patterns of colorful soup cans, in Andy Warhol style."," ""Andy Warhol""",89125,23
+24,A bustling market scene in Cezanne style.," ""Cezanne""",45670,24
+25,A quiet rural scene with hay bales in Cezanne style.," ""Cezanne""",91236,25
+26,A detailed view of a fruit bowl in Cezanne style.," ""Cezanne""",56781,26
+27,A serene lake with boats in Cezanne style.," ""Cezanne""",12392,27
+28,"A cubist portrayal of an guitar with geometric shapes and sharp angles, in Picasso style."," ""Picasso""",67896,28
+29,A fragmented portrait of a woman in Picasso style.," ""Picasso""",23459,29
+30,A vibrant cityscape with abstract forms in Picasso style.," ""Picasso""",78915,30
+31,"A cubist interpretation of a still life featuring a bowl of oranges, a vase, and a tablecloth, in Picasso style."," ""Picasso""",34570,31
+32,A starry night sky over a small village.," ""Van Gogh""",89126,32
+33,"A swirling, turbulent sea."," ""Van Gogh""",45671,33
+34,A night sky with swirling stars over a farmhouse.," ""Van Gogh""",91237,34
+35,A field of sunflowers under a bright sky.," ""Van Gogh""",56782,35
+36,A bustling street with vendors.," ""Van Gogh""",12393,36
+37,A lush green meadow with a lone tree.," ""Van Gogh""",67897,37
+38,A vibrant wheat field with a stormy sky.," ""Van Gogh""",23460,38
+39,A serene sunset over a mountain range.," ""Van Gogh""",78916,39
+40,A large sunflower with a vivid background.," ""Van Gogh""",34571,40
+41,A peaceful village with a river running through it.," ""Van Gogh""",89127,41
+42,A starry night sky with a silhouette of a cypress tree.," ""Van Gogh""",45672,42
+43,"A small village with bright, colorful buildings."," ""Van Gogh""",91238,43
+44,A haunting forest with twisted trees in Edvard Munch style.," ""Edvard Munch""",56783,44
+45,An emotional portrait with dramatic expressions in Edvard Munch style.," ""Edvard Munch""",12394,45
+46,"A dark, stormy night with a lone figure in Edvard Munch style."," ""Edvard Munch""",67898,46
+47,"A disturbing scene with a figure clutching their head in agony amidst a swirling, chaotic background, in Edvard Munch style."," ""Edvard Munch""",23461,47
+48,A tranquil pond with lily pads in Monet style.," ""Monet""",78917,48
+49,A blooming water lily in a serene garden in Monet style.," ""Monet""",34572,49
+50,A picturesque bridge over a canal in Monet style.," ""Monet""",89128,50
+51,A colorful garden with delicate flowers in Monet style.," ""Monet""",45673,51
+52,A melting clock draped over a tree in Salvador Dali style.," ""Salvador Dali""",91239,52
+53,A distorted landscape with unusual objects in Salvador Dali style.," ""Salvador Dali""",56784,53
+54,A dream-like scene with floating figures in Salvador Dali style.," ""Salvador Dali""",12395,54
+55,A surreal desert with bizarre shapes in Salvador Dali style.," ""Salvador Dali""",67899,55
+56,A large mural depicting Mexican history in Diego Rivera style.," ""Diego Rivera""",23462,56
+57,Workers building a grand structure in Diego Rivera style.," ""Diego Rivera""",78918,57
+58,A vibrant scene of traditional Mexican festivals in Diego Rivera style.," ""Diego Rivera""",34573,58
+59,A detailed mural showing agricultural life in Diego Rivera style.," ""Diego Rivera""",89129,59
+60,A landscape with colorful dots in Georges Seurat style.," ""Georges Seurat""",45674,60
+61,A busy park scene with people in Georges Seurat style.," ""Georges Seurat""",91240,61
+62,A detailed view of a flower garden in Georges Seurat style.," ""Georges Seurat""",56785,62
+63,A riverbank scene with pointillist effects in Georges Seurat style.," ""Georges Seurat""",12396,63
+64,A series of large-eyed portraits in Margaret Keane style.," ""Margaret Keane""",67900,64
+65,A whimsical scene with exaggerated eyes in Margaret Keane style.," ""Margaret Keane""",23463,65
+66,An emotional depiction of children with big eyes in Margaret Keane style.," ""Margaret Keane""",78919,66
+67,"A vivid portrait of a girl with large, expressive eyes and a bright red bow, in Margaret Keane style."," ""Margaret Keane""",34574,67
+68,A detailed flower arrangement in Jan van Huysum style.," ""Jan van Huysum""",654321,68
+69,A colorful still life with fruits in Jan van Huysum style.," ""Jan van Huysum""",654322,69
+70,A serene vase with blooming flowers in Jan van Huysum style.," ""Jan van Huysum""",654323,70
+71,A detailed bouquet of roses in Jan van Huysum style.," ""Jan van Huysum""",654324,71
+72,"A vibrant, colorful carnival scene in Frida Kahlo style."," ""Frida Kahlo""",765432,72
+73,A dramatic self-portrait with symbolic elements in Frida Kahlo style.," ""Frida Kahlo""",765433,73
+74,A surreal depiction of a jungle with vivid colors in Frida Kahlo style.," ""Frida Kahlo""",765434,74
+75,A colorful mural of traditional Mexican life in Frida Kahlo style.," ""Frida Kahlo""",765435,75
+76,A surreal scene with floating objects in René Magritte style.," ""René Magritte""",876543,76
+77,A mysterious cityscape with unusual architecture in René Magritte style.," ""René Magritte""",876544,77
+78,"A dream-like scene with a partially obscured face behind a glass pane and floating objects like keys and umbrellas, in René Magritte style."," ""René Magritte""",876545,78
+79,"A puzzling depiction of everyday objects like a floating apple and a partially submerged clock, in René Magritte style."," ""René Magritte""",876546,79
+80,"An abstract expression of chaotic brushstrokes depicting a vibrant street carnival, in Jackson Pollock style."," ""Jackson Pollock""",987654,80
+81,A dynamic splatter of paint on a canvas in Jackson Pollock style.," ""Jackson Pollock""",987655,81
+82,"A vivid explosion of color and form illustrating a fireworks display over a city skyline, in Jackson Pollock style."," ""Jackson Pollock""",987656,82
+83,"A chaotic arrangement of paint drips creating the effect of a busy street market with people and stalls, in Jackson Pollock style."," ""Jackson Pollock""",987657,83
+84,A large metal sculpture in Richard Serra style.," ""Richard Serra""",543210,84
+85,A monumental steel structure with abstract shapes in Richard Serra style.," ""Richard Serra""",543211,85
+86,A massive outdoor installation with curved forms in Richard Serra style.," ""Richard Serra""",543212,86
+87,A grand sculpture of intersecting steel plates in Richard Serra style.," ""Richard Serra""",543213,87
+88,"A surreal landscape featuring distorted trees and melting rocks in a desolate desert, in Max Ernst style."," ""Max Ernst""",654321,88
+89,A fantastical scene with imaginative creatures in Max Ernst style.," ""Max Ernst""",654322,89
+90,"A dream-like environment with twisted, floating trees and an oversized moon in a forest, in Max Ernst style."," ""Max Ernst""",654323,90
+91,"A dramatic, abstract composition of a swirling tornado and jagged forms in a turbulent sky, in Max Ernst style."," ""Max Ernst""",654324,91
+92,A vibrant street art piece with bold colors in Keith Haring style.," ""Keith Haring""",219766,92
+93,A lively mural featuring dancing figures in Keith Haring style.," ""Keith Haring""",219767,93
+94,"A dynamic illustration of dancers in mid-motion at a vibrant street festival, in Keith Haring style."," ""Keith Haring""",219768,94
+95,A striking piece of urban art with geometric patterns in Keith Haring style.," ""Keith Haring""",219769,95
+96,"A dramatic portrait of Napoleon Bonaparte in a military uniform, with intense facial expressions, in Caravaggio style."," ""Caravaggio""",229876,96
+97,"A chiaroscuro scene of a lone musician playing a violin in a dimly lit room, with a single beam of light highlighting their face, in Caravaggio style."," ""Caravaggio""",229877,97
+98,"A detailed depiction of a dramatic moment, such as a Roman gladiator facing a lion in the Colosseum, with intense lighting and shadows, in Caravaggio style."," ""Caravaggio""",229878,98
+99,"A classical representation of the biblical scene of the Crucifixion of Jesus, with strong contrasts of light and shadow, in Caravaggio style."," ""Caravaggio""",229879,99
